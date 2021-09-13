@@ -1,0 +1,17 @@
+h1 {
+	font-size: 150px;
+	color: gold;
+	text-transform: lowercase;
+}
+
+p {
+	text-align: justify;
+	text-indent: 100px;
+	text-decoration: line-through;
+	letter-spacing: 5px;
+	word-spacing: 10px;
+}
+
+a {
+	text-decoration: none;
+}

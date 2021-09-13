@@ -1,0 +1,27 @@
+.main {
+	background-color: lightgreen;
+	width: 300px;
+}
+
+.main h1, h2, p {
+	background-color: grey;
+}
+
+.main span {
+	background-color: lightblue;
+}
+
+.navigasi {
+	background-color: pink;
+}
+
+.navigasi ul li {
+	display: inline;
+}
+
+.navigasi ul li a {
+	background-color: gold;
+	width: 50px;
+	height: 50px;
+	display: inline-block;
+}
